@@ -1,0 +1,12 @@
+name = "modules"
+type = "javascript"
+account_id = "57940ca7ddb3b092bbb9a0d78a3194c4"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-10-22"
+
+[build]
+command = "npm install && npm run build"
+[build.upload]
+format = "service-worker"
