@@ -1,6 +1,6 @@
-name = "modules"
+name = ""
 type = "javascript"
-account_id = "57940ca7ddb3b092bbb9a0d78a3194c4"
+account_id = ""
 workers_dev = true
 route = ""
 zone_id = ""
